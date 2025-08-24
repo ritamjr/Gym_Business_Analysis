@@ -105,5 +105,12 @@ RETURN
 * 📱 Optimized mobile layout
 
 ---
+<img width="1313" height="739" alt="image" src="https://github.com/user-attachments/assets/b4355987-10f5-469f-b373-6fae1d571fbb" />
+<img width="1316" height="735" alt="image" src="https://github.com/user-attachments/assets/6f4e02b8-650d-4a34-866d-108921af36e2" />
+<img width="1308" height="736" alt="image" src="https://github.com/user-attachments/assets/5bbbf399-637d-487b-8a51-404f88c01dfe" />
+<img width="1314" height="733" alt="image" src="https://github.com/user-attachments/assets/f1486286-df2b-4182-a865-52f11ed6c70d" />
+
+
+
 
 
